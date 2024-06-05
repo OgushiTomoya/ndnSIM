@@ -6,3 +6,6 @@
 	path = ndn-cxx
 	url = git@github.com:OgushiTomoya/ndn-cxx.git
 	branch = ndn-cxx-0.7.0-ndnSIM
+[submodule "apps"]
+	path = apps
+	url = git@github.com:OgushiTomoya/icn_congestion_control.git
